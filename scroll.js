@@ -1,6 +1,10 @@
 /******************************************************
 SCROLL FUNCTION - USING jQuery Library
-ADD .scrollme class to anchors that link to element
+ADD .scrollme class to anchors that link to element 
+
+e.g  <a class="scrollme" href="#myDiv">Scroll</a>
+     <div id="myDiv">Scroll To</div>
+
 USEFULL FOR LONG LANDING PAGES -- I GUESS!?
 *****************************************************/
 $(function() {
